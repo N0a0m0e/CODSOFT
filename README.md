@@ -70,11 +70,3 @@ An AI application that detects and recognizes faces in images or videos. This pr
 3. Run the script using Python to start the application.
 
 ---
-
-## Contribution
-Feel free to contribute to any of these projects. Pull requests are welcome!
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
