@@ -8,8 +8,6 @@ This repository contains a collection of AI projects demonstrating various techn
 1. [Chatbot with Rule-Based Responses](#chatbot-with-rule-based-responses)
 2. [Tic-Tac-Toe Game](#tic-tac-toe-game)
 3. [Face Detection and Recognition](#face-detection-and-recognition)
-4. [Contribution](#contribution)
-5. [License](#license)
 
 ---
 
