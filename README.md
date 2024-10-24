@@ -1,7 +1,4 @@
 # CODSOFT
-Sure! Here’s a combined description for all the tasks in a single GitHub repository. This can serve as a comprehensive README file.
-
----
 
 # AI Projects Collection
 
