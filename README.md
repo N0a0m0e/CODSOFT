@@ -7,11 +7,9 @@ This repository contains a collection of AI projects demonstrating various techn
 ## Table of Contents
 1. [Chatbot with Rule-Based Responses](#chatbot-with-rule-based-responses)
 2. [Tic-Tac-Toe Game](#tic-tac-toe-game)
-3. [Image Captioning](#image-captioning)
-4. [Recommendation System](#recommendation-system)
-5. [Face Detection and Recognition](#face-detection-and-recognition)
-6. [Contribution](#contribution)
-7. [License](#license)
+3. [Face Detection and Recognition](#face-detection-and-recognition)
+4. [Contribution](#contribution)
+5. [License](#license)
 
 ---
 
@@ -52,49 +50,7 @@ An implementation of the classic Tic-Tac-Toe game where a human player can compe
 
 ---
 
-## 3. Image Captioning
-
-### Description
-An AI application that generates captions for images by combining computer vision and natural language processing. This project uses a pre-trained VGG16 model for feature extraction and an RNN for generating captions.
-
-### Technologies Used
-- Python
-- TensorFlow
-- Keras
-- OpenCV
-
-### Features
-- Extracts features from images
-- Generates descriptive captions
-
-### How to Run
-1. Clone the repository.
-2. Prepare your dataset of images and captions.
-3. Run the script using Python.
-
----
-
-## 4. Recommendation System
-
-### Description
-A simple recommendation system that suggests items (like movies) to users based on their preferences using collaborative filtering techniques. This project demonstrates how to recommend items based on user ratings.
-
-### Technologies Used
-- Python
-- Pandas
-- Surprise
-
-### Features
-- Collaborative filtering-based recommendations
-- Easy to extend with more data
-
-### How to Run
-1. Clone the repository.
-2. Run the script using Python to see recommendations.
-
----
-
-## 5. Face Detection and Recognition
+## 3. Face Detection and Recognition
 
 ### Description
 An AI application that detects and recognizes faces in images or videos. This project employs Haar cascades for face detection and the `face_recognition` library for recognition capabilities.
